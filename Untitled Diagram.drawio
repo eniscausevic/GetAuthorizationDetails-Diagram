@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T11:25:29.988Z" agent="5.0 (Windows)" etag="gOg7f0HMXmoTJ8oH0xMa" version="14.0.1" type="github" pages="2"><diagram id="ImbfJF_LHTz0tTePXSTP" name="Page-1">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</diagram><diagram name="AuthorizationContextExtesnions" id="hSIUkqwhvCgRx9dp9Y74">rZNNT4QwEIZ/DUcToCqcxXX1YEzk4LlLZ2lNaUmZFdhfb1mGL/dgTLyQmWfaaeZ9h4BlVbd3vJavVoAO4lB0AXsM4jhJY/8dQD+CW5aMoHRKjChaQK7OQDAkelICms1BtFajqrewsMZAgRvGnbPt9tjR6u2rNS/hCuQF19f0QwmUI03vwoU/gyrl9HIUUqXi02ECjeTCtivEdgHLnLU4RlWXgR60m3Qx5+QQfr7cC2mO+ftbZw7obsZmT3+5Mo/gwOD/tiZzv7g+kV57wFyVRpnysgoNzY79JKjv6r3zyUMrFUJe82KotH57PJNYaZ9FPqTW4BC6H178Mkg0q+u3EmwF6Hp/j7rECRlCG8kobRd7o8kzubI2JcZpo8q586KaD0i4KV38vdRWPwnbfQM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-11T11:38:23.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tqQ2FpB2XtD-OPVinjIo" version="14.0.1" type="github" pages="2">
+  <diagram id="ImbfJF_LHTz0tTePXSTP" name="ActionAuthExt">
+    <mxGraphModel dx="905" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WL2eNweO2VBVD6EilrZj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-2" target="WL2eNweO2VBVD6EilrZj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;GetAuthorizationDetails&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-4" target="WL2eNweO2VBVD6EilrZj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-4" value="PREPARE AUTHORIZATION RESOURCE&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-28" target="WL2eNweO2VBVD6EilrZj-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-6" value="GET EXISTING AUTHORIZATION RESOURCE&lt;br&gt;(returns tuple result of authorization resource base )" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="240" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-8" target="WL2eNweO2VBVD6EilrZj-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-8" value="SINGLE AUTHORIZATION RESOURCE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="665" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-10" target="WL2eNweO2VBVD6EilrZj-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-10" value="RESOLVE SIGNATORIES COMBINATIONS&lt;br&gt;(Gets the signing models)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-12" target="WL2eNweO2VBVD6EilrZj-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-12" value="RESOLVE ALLOWED AUTHORIZATION METHODS&lt;br&gt;(Gets or sets the signatories per groups)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="560" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-14" target="WL2eNweO2VBVD6EilrZj-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-14" value="CHECK EXISTING AUTHORIZATIONS(checks correct number of required signatures with number of existing)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-16" target="WL2eNweO2VBVD6EilrZj-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-16" value="RESOLVE OVERALL STATUS(returns status (Pending-auth, Authorized, Not possible of authorizations)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-18" target="WL2eNweO2VBVD6EilrZj-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-18" value="CHECK IS AUTHORIZABLE BY CURRENT USER(checks is it authorizable by current user)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="660" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-20" target="WL2eNweO2VBVD6EilrZj-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-20" value="CHECKS TIMESTAMP OF LAST AUTHORIZATION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-21" value="return AdditionalAuthorizationStatusDetails" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="660" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-22" value="&lt;font style=&quot;font-size: 10px&quot;&gt;authorizationContainer == null&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="223.75" width="130" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-6" target="WL2eNweO2VBVD6EilrZj-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="285" as="sourcePoint" />
+            <mxPoint x="410" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-24" value="return null" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-22" target="WL2eNweO2VBVD6EilrZj-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444.8938775510203" y="285.1" as="sourcePoint" />
+            <mxPoint x="570" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-26" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;existingAuthorizationResource == null &amp;amp;&amp;amp; authorizationContainer.AuthorizationResource == null&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="610" y="230" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-24" target="WL2eNweO2VBVD6EilrZj-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="285" as="sourcePoint" />
+            <mxPoint x="700" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-28" value="return null" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="665" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-26" target="WL2eNweO2VBVD6EilrZj-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="340" as="sourcePoint" />
+            <mxPoint x="770" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-31" target="WL2eNweO2VBVD6EilrZj-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-31" value="return signingModels" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="155" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WL2eNweO2VBVD6EilrZj-33" target="WL2eNweO2VBVD6EilrZj-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WL2eNweO2VBVD6EilrZj-33" value="AuthorizationContextExtensions.&lt;br&gt;GetSigningModels&amp;nbsp;" style="rounded=0;align=center;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="AuthorizationContextExtesnions" id="hSIUkqwhvCgRx9dp9Y74">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="nz7b0jI6dhnfSROxnbtr-0" />
+        <mxCell id="nz7b0jI6dhnfSROxnbtr-1" parent="nz7b0jI6dhnfSROxnbtr-0" />
+        <mxCell id="nz7b0jI6dhnfSROxnbtr-2" value="GetSigningModels" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="nz7b0jI6dhnfSROxnbtr-1">
+          <mxGeometry x="270" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
