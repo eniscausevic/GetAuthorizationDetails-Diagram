@@ -1,0 +1,2 @@
+"# GetAuthorizationDetails-Diagram" 
+"# GetAuthorizationDetails-Diagram" 
